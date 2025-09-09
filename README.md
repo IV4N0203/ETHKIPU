@@ -1,4 +1,4 @@
-# ETHKIPU
+# ETHKIPU - IVAN ALARCON RODRIGUEZ 
 Espacio para depositar mi desarrollo en el curso ETHKIPU 
 
 
